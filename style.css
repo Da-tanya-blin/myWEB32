@@ -13,6 +13,7 @@ main {
 h1 {
     font-family: 'Lobster';
     text-align: center;
+    color: red;
 }
 p {
     font-family: 'Stoke';
@@ -25,5 +26,5 @@ p {
 }
 .photo-line img {
     width: 32%;
-    
+    border-radius: 10px;
 }
